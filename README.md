@@ -31,7 +31,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://imgur.com/a/KkKBvwb
+![xMLst6C](https://github.com/syedarman1/AND_proj1/assets/148717758/718c6880-3b08-4063-bc0a-edf2bf877714)
+
 
 GIF created with ScreenToGif
 
